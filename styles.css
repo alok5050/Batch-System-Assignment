@@ -1,0 +1,129 @@
+.bi-fire
+{
+    size: 40px;
+}
+
+h2{
+    font-family: "Almarai:wght@300;400;700;800";
+}
+
+.active{
+
+    color: #FF5555;
+}
+
+.img-1{
+    left: 30px;
+    right: 30px;
+    size: 20px;
+    
+}
+
+ .img-2{
+
+    top: 80px;
+    right: 700px;
+    float: right;
+    left: 20px;
+ }
+
+h2{
+
+    font-weight: bold;
+    position: relative;
+    left: 150px;
+    right: 100px;
+    font-size:xx-large;
+}
+
+.fs-4{
+
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+p{
+    font-family: "Inter:wght@100..900&display=swap";
+    font-size: medium;
+    position: relative;
+    left: 150px;
+    right: 100px;
+    font-size: large;
+    
+}
+
+.btn-dark{
+
+    position: relative;
+    left: 150px;
+    right: 100px;
+    font-size: larger;
+    transform: translateY(30px);
+
+}
+
+.bi-play-circle
+{
+    position: relative;
+    left: 150px;
+    right: 150px;
+    height: 30px;
+    width: 30px;
+
+}
+
+.iPhone1{
+    position: fixed;
+    display: grid;
+    justify-content: end;
+    left: 250px;
+
+}
+
+header{
+
+    color: black;
+}
+
+.parent{
+    position: relative;
+    float: right;
+    margin-right: auto;
+    height: 800px;
+    top: 10px;
+    margin-top: 5px;
+    transform: translateZ(60%);
+   
+  }
+
+
+.Group{
+
+    position: relative;
+    height: 300px;
+    width: 400px;
+    justify-content: center;
+    top: 80px;
+    transform: translateZ(40%);
+    margin-left: 10%;
+
+}
+
+.d-flex{
+
+    color:black;
+    font-weight: 600;
+}
+
+.play{
+   margin-top: 0.3%;
+    margin-left: 20%;
+    transform: translateZ(20%);
+}
+
+@media(max-width: 600px){
+    h1{
+        font-size: 15px;
+    }
+}
